@@ -18,6 +18,6 @@ Route::get('/show-loans', function () {
     return view('show-loan-stats');
 });
 
-Route::get('/show-reports', function () {
+Route::get('/show-reports/test', function () {
     return view('show-loan-report');
 });

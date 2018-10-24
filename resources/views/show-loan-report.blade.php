@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Display Loan Reports
+                    Display Loan Reports test!
                 </div>
 
                 <div class="links">

@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/show-loans', function () {
+    return view('show-loan-stats');
+});

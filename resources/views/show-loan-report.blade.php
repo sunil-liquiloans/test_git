@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Display Loan Reports test 001 !
+                    Display Loan Reports test 001 ! <br />24 Oct 2018
                 </div>
 
                 <div class="links">

@@ -17,3 +17,7 @@ Route::get('/', function () {
 Route::get('/show-loans', function () {
     return view('show-loan-stats');
 });
+
+Route::get('/show-reports', function () {
+    return view('show-loan-report');
+});
